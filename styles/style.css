@@ -1,0 +1,109 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../images/wallpaper2.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 100vh;
+    min-width: 100vw;
+    background-position: center;
+    color: LightGray;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+}
+
+nav ul {
+    text-align: center;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: lightgray;
+}
+
+a:link {
+    text-decoration: none;
+    color: lightgray;
+}
+
+a:visited {
+    text-decoration: none;
+    color: lightgray;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
+.icons {
+    text-align: center;
+    padding: 10px;
+}
+
+.icon {
+    margin: 10px;
+}
+
+.logo {
+    color: black;
+    background-color: lightgray;
+    border-radius: 50%;
+}
+
+.nofloat {
+    float: none;
+}
+
+i {
+    color: black;
+}
+
+i:hover {
+    color: lightgray;
+}
+
+input {
+    background-color: black;
+    color: grey;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.listaDatas {
+    display: block;
+}
+
+ul {
+    padding: 0px;
+}
+
+img {
+    margin: 0px;
+    padding: 0px;
+    height: 180px;
+    width: 240px;
+    padding-top: 30px;
+}
+
+.pu {
+    padding-bottom: 50px;
+}
